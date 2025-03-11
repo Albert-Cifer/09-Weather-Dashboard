@@ -16,9 +16,10 @@
 After you get the repo, simply use "npm install" (use npm audit fix in case there's some issues)
 
 You will now need to create the .env file in your server, and you will need to add:
-API_BASE_URL=http://api.openweathermap.org/data/2.5/
-API_KEY=your_openweathermap_api_key
-Be sure yo generate your own api key with your account in the open wather site. It might take a couple of hours to work.
+"API_BASE_URL=http://api.openweathermap.org/data/2.5/"
+and
+"API_KEY=your_openweathermap_api_key"
+Be sure to generate your own api key with your account in the open wather site. It might take a couple of hours to work.
 
 ## Usage
 Finally, you simply us "npm start"
