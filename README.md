@@ -25,7 +25,12 @@ Be sure to generate your own api key with your account in the open wather site. 
 Finally, you simply us "npm start"
 Now you can start searching for any city you want!
 
-## Video
+## Images and Video
+
+![image](https://github.com/user-attachments/assets/f7296fe2-ec5d-49ad-85bc-6d3927e43dc0)
+
+![image](https://github.com/user-attachments/assets/267c820c-a8e9-4321-8723-7acd6b5acd4c)
+
 https://youtu.be/B5U_rJpFXR0
 
 ## Contributing
